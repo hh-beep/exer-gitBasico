@@ -1,0 +1,15 @@
+body { 
+        font-family: Georgia,serif;
+    }
+.titulos {
+        color: #0f172a;
+    }
+   h1{
+        letter-spacing: 2px;
+    }
+   p{
+        line-height:1.6px
+    }
+.botoes {
+        text-transform: uppercase;
+    }
