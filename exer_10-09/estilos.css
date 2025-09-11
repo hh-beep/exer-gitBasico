@@ -13,3 +13,25 @@ body {
 .botoes {
         text-transform: uppercase;
     }
+
+    .cartao{ /*definindo borda*/
+        border: 1px solid #cbd5e1; 
+    }
+
+    .cartao info{ /*definindo largura maxima*/
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .container{ /*centralizando*/
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .cartao{ /*margem*/
+        margin: 20px 10px;
+    }
+
+    #rodape-principal{ /* adicionando uma borda no rodape*/
+        border-top: 4px solid #3b82f6;
+    }
