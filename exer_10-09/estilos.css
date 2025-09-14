@@ -63,3 +63,28 @@ body {
     color: white; 
     border: none; 
 }
+
+
+/*  parte Henrique   */
+.cartao.info  {  background-color: #eff6ff;  }                  /*  16  */
+
+
+.link:hover   {  color: #dc2626;  }                             /*  17  */
+
+
+.cartao:hover {                                                 /*  18 */  
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);  
+  cursor: pointer;
+}     
+
+
+nav li {  list-style-type: none;  }                             /*  19  */
+
+
+button:not(.botao-destaque) {  background-color: #475569;  }    /*  20  */
+
+
+
+
+* {  transition: 300ms all;  }                                  /*  extras  */
+#rodape-principal p {  text-align: center;  }                     
